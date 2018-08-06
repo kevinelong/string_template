@@ -1,6 +1,5 @@
 <?php
 
-
 class string_template
 {
 
@@ -55,7 +54,6 @@ class string_template
             }
 
         }
-
 
         return implode("", $output);
     }
